@@ -1,1 +1,4 @@
-<resources><string name="app_name">ScanBug</string><string name="accessibility_description">Reads visible UI labels in the selected app and performs user-requested taps for QA testing.</string></resources>
+<resources>
+    <string name="app_name">ScanBug</string>
+    <string name="accessibility_description">Read-only UI inspection for an app explicitly selected by the user. Displays accessible control labels and types locally. Does not click, type, scroll, take screenshots, save inspected screen content, or transmit it.</string>
+</resources>
